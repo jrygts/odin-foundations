@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Lists</title>
+</head>
+
+<body>
+  <h1>Random List Practice</h1>
+  <h2>A List of My Favorite Foods</h2>
+  <ul>
+    <li>Nachos</li>
+    <li>Cheese</li>
+    <li>Pizza</li>
+    <li>Avocado</li>
+    <li>Steak</li>
+  </ul>
+  <h2>Todo List</h2>
+  <ol>
+    <li>Laundry</li>
+    <li>Piano Lesson</li>
+    <li>Cook some potatoes with the wife</li>
+    <li>Spend some time with the kids</li>
+    <li>Complete as much of <em>The Odin Project<em> while remaining as deep an understanding as possible</li>
+  </ol>
+  <h2>Places I'd Like To Visit Someday</h2>
+  <ul>
+    <li>Japan</li>
+    <li>Malaysia</li>
+    <li>Singapore</li>
+    <li>Canada</li>
+  </ul>
+  <h2>My Top Five Favorite Video Games of All Time</h2>
+  <ol>
+    <li>Golden Sun: The Lost Age - That music will live in my head forever.</li>
+    <li>Fortnite</li>
+    <li>Runescape - one of the best games ever made hands down.</li>
+    <li>All of the pokemon games even though they get a little redundant</li>
+    <li>Basketball(it's technically a game and i love watching and playing it).</li>
+  </ol>
+</body>
+
+</html>
